@@ -1,0 +1,3 @@
+echo "Hello guys" = shell script
+echo "my script for today" = shell script
+print "Hello World" = python script
